@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thefog",
+    "texture": "1b2c6388-26ca-4f45-935b-2794ecb55e68",
+    "atlas": "0a8b54ae-5f82-4258-9506-cd99666f0b9d",
+    "rect": [
+      2,
+      560,
+      147,
+      191
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      191
+    ],
+    "rotated": 0
+  }
+}

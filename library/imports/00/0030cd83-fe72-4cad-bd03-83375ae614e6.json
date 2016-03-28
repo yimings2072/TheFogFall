@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banshou",
+    "texture": "b65ca65c-120c-418f-9631-ecaa074db599",
+    "atlas": "8ad9585d-ac5f-48d3-8d08-904d6b78f9c3",
+    "rect": [
+      2,
+      2,
+      198,
+      168
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      202,
+      174
+    ],
+    "rotated": 0
+  }
+}

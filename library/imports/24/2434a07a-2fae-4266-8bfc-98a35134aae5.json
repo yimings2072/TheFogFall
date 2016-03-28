@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chilun",
+    "texture": "b65ca65c-120c-418f-9631-ecaa074db599",
+    "atlas": "8ad9585d-ac5f-48d3-8d08-904d6b78f9c3",
+    "rect": [
+      2,
+      172,
+      55,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      56
+    ],
+    "rotated": 0
+  }
+}

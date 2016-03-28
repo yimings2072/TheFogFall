@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "openGas",
+    "texture": "1606dc24-5cea-499e-b583-0eac65ec1ebd",
+    "atlas": "",
+    "rect": [
+      26,
+      15,
+      1769,
+      1864
+    ],
+    "offset": [
+      -113.5,
+      77
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}

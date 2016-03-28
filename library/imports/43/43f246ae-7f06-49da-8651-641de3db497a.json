@@ -1,0 +1,162 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "movie2",
+  "_objFlags": 0,
+  "_duration": 4.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "08c5eef8-b506-4425-8578-754f46cb181c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "0053f653-ce26-4cf2-b7b3-c6e83575d927"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e98661f8-79e3-4094-b96f-0e9a6ea99441"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "4812c174-a1e4-4a2c-af23-c45df0f81c13"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "27f01a8b-4d76-476a-96b5-c636924515be"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "1540009b-2c6e-4ab5-9e18-5fe4575e6aff"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "3d73e6d0-3cda-43be-ac83-09fdbe61d523"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "6a938b45-10f5-476c-a16a-cd3454af35ea"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "3d964dfb-7443-4666-9bf3-f70ba4372958"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "8f0b1f33-1de3-4557-abc7-afabc6b64a3f"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "3c3bb252-253d-4446-bbe8-5587e805abff"
+            }
+          },
+          {
+            "frame": 2.2,
+            "value": {
+              "__uuid__": "4fa739cd-2a31-4dd1-ad3f-fbe212638e42"
+            }
+          },
+          {
+            "frame": 2.4,
+            "value": {
+              "__uuid__": "0b074dae-190c-4a19-8c2c-22e754a819ee"
+            }
+          },
+          {
+            "frame": 2.6,
+            "value": {
+              "__uuid__": "2b31358e-e64a-49d9-8b10-6920033495f9"
+            }
+          },
+          {
+            "frame": 2.8,
+            "value": {
+              "__uuid__": "65a5ec9a-5dc5-4a82-b92f-8be3eeb8c842"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "a9687d62-efac-4a90-bdfe-bfaa7a9581d0"
+            }
+          },
+          {
+            "frame": 3.2,
+            "value": {
+              "__uuid__": "fd7789ed-7f5a-47f9-bb6c-f93c262e04d2"
+            }
+          },
+          {
+            "frame": 3.4,
+            "value": {
+              "__uuid__": "f38d694a-8b49-46d5-890c-3b48bd94b827"
+            }
+          },
+          {
+            "frame": 3.6,
+            "value": {
+              "__uuid__": "14e6d25c-7ccb-410c-9a9e-8b1a670ea1ff"
+            }
+          },
+          {
+            "frame": 3.8,
+            "value": {
+              "__uuid__": "34be8bf7-48c0-491d-95ba-403194501927"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "377d59a9-7f21-4d52-9b13-2c5c73db52f8"
+            }
+          },
+          {
+            "frame": 4.2,
+            "value": {
+              "__uuid__": "47faf5ef-95ef-4e5c-974e-dc13ba446dc7"
+            }
+          },
+          {
+            "frame": 4.4,
+            "value": {
+              "__uuid__": "7edcef06-07a4-4f27-99bd-3cca27317f1f"
+            }
+          },
+          {
+            "frame": 4.6,
+            "value": {
+              "__uuid__": "a12534ec-bb10-41a5-b0c2-a11ceec97e2a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

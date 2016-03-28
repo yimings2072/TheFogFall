@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fireToCut",
+    "texture": "8b1194be-8045-461b-a442-769f1e575728",
+    "atlas": "",
+    "rect": [
+      25,
+      15,
+      1739,
+      1814
+    ],
+    "offset": [
+      -129.5,
+      102
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}

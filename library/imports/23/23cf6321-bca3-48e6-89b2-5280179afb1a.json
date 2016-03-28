@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scene2Wath",
+    "texture": "b7b039ba-4484-4b87-836c-a3cd55863a28",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      993,
+      1019
+    ],
+    "offset": [
+      -13.5,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "rotated": 0
+  }
+}

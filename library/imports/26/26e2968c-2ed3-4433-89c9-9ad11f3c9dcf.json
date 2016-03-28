@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scene2ToWash",
+    "texture": "e02c236f-d1fa-4671-beb6-eae3e082fc77",
+    "atlas": "08f2a771-aa6c-4145-901e-7b9ac818c1a4",
+    "rect": [
+      2,
+      1324,
+      588,
+      435
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      588,
+      435
+    ],
+    "rotated": 1
+  }
+}

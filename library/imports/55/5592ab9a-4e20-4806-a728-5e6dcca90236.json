@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cutToCold",
+    "texture": "a76bf894-6cba-4f3e-9b5b-a2e729629237",
+    "atlas": "",
+    "rect": [
+      25,
+      5,
+      1964,
+      1854
+    ],
+    "offset": [
+      -17,
+      92
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}

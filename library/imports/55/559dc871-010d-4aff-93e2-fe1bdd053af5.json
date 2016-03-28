@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "openlift",
+    "texture": "37319cb6-123d-4477-9759-b03979e5e372",
+    "atlas": "",
+    "rect": [
+      29,
+      17,
+      4049,
+      1965
+    ],
+    "offset": [
+      5.5,
+      24.5
+    ],
+    "originalSize": [
+      4096,
+      2048
+    ],
+    "rotated": 0
+  }
+}

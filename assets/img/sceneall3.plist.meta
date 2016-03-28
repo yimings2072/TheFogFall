@@ -1,0 +1,55 @@
+{
+  "ver": "1.1.2",
+  "uuid": "8ad9585d-ac5f-48d3-8d08-904d6b78f9c3",
+  "rawTextureUuid": "b65ca65c-120c-418f-9631-ecaa074db599",
+  "size": {
+    "width": 256,
+    "height": 256
+  },
+  "type": "Texture Packer",
+  "rawTexturePath": "D:\\workspace\\Cocos_Ceator_Workspace\\TheFogFall\\assets\\img\\sceneall3.png",
+  "subMetas": {
+    "banshou.png": {
+      "ver": "1.0.2",
+      "uuid": "0030cd83-fe72-4cad-bd03-83375ae614e6",
+      "rawTextureUuid": "b65ca65c-120c-418f-9631-ecaa074db599",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 198,
+      "height": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "import": null,
+      "subMetas": {}
+    },
+    "chilun.png": {
+      "ver": "1.0.2",
+      "uuid": "2434a07a-2fae-4266-8bfc-98a35134aae5",
+      "rawTextureUuid": "b65ca65c-120c-418f-9631-ecaa074db599",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 172,
+      "width": 55,
+      "height": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "import": null,
+      "subMetas": {}
+    }
+  }
+}

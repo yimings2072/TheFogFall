@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "movie5",
+    "texture": "00c7fdca-4be3-4b66-a77f-128183d22808",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1972,
+      1937
+    ],
+    "offset": [
+      -36,
+      53.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}

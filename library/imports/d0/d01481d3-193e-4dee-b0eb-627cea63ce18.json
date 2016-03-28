@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bakePower",
+    "texture": "2adf5f43-7434-4b0c-bff5-023e27b19a2e",
+    "atlas": "",
+    "rect": [
+      15,
+      2,
+      988,
+      985
+    ],
+    "offset": [
+      -3,
+      17.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "rotated": 0
+  }
+}

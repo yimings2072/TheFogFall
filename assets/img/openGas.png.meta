@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1606dc24-5cea-499e-b583-0eac65ec1ebd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "openGas": {
+      "ver": "1.0.2",
+      "uuid": "5d6a5fbf-59d4-4a08-ad82-7495a96b8344",
+      "rawTextureUuid": "1606dc24-5cea-499e-b583-0eac65ec1ebd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -113.5,
+      "offsetY": 77,
+      "trimX": 26,
+      "trimY": 15,
+      "width": 1769,
+      "height": 1864,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

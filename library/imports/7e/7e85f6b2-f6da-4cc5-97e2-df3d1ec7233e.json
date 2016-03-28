@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "openCamera",
+    "texture": "a3c30c8e-e6c9-4267-b836-3b6a40acb54c",
+    "atlas": "",
+    "rect": [
+      64,
+      31,
+      1910,
+      1943
+    ],
+    "offset": [
+      -5,
+      21.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}

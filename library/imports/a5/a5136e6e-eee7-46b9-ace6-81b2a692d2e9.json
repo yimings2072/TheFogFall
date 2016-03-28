@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "openDoor",
+    "texture": "03c8d1df-4053-4d8e-a704-956dd3e5e575",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1911,
+      1914
+    ],
+    "offset": [
+      -66.5,
+      65
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "rotated": 0
+  }
+}
